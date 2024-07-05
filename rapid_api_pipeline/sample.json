@@ -1,0 +1,916 @@
+[
+    {
+        "job_id": "CsgKlMEAabChkLSgAAAAAA==",
+        "employer_name": "HSSSoft",
+        "employer_logo": null,
+        "employer_website": null,
+        "employer_company_type": null,
+        "employer_linkedin": null,
+        "job_publisher": "ZipRecruiter",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Python Developer",
+        "job_apply_link": "https://www.ziprecruiter.com/c/HSSSoft/Job/Python-Developer/-in-New-York,NY?jid=1e695598a57f6669&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.7175,
+        "apply_options": [
+            {
+                "publisher": "ZipRecruiter",
+                "apply_link": "https://www.ziprecruiter.com/c/HSSSoft/Job/Python-Developer/-in-New-York,NY?jid=1e695598a57f6669&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            }
+        ],
+        "job_description": "Company Description\n\nHSS SOFT is an Equal Employment Opportunity Employer\n\nJob Description\n\nPosition: Python Developer\n\nLocation: New York\n\nJob Type: Full Time Job\n\nRequired Skills:\n\u2022 8+ years of solid programming experience in C++, Java, or other OO language\n\u2022 3-4 years of experience in Python.\n\u2022 Thorough understanding of Python basic concepts like Lists, Strings, Indexing, Slicing, Tuples and Dictionaries.\n\u2022 Familiar with Python Object Oriented concepts like creating classes, constructors, overloading and modules.\n\u2022 Familiar with NumPy and Pandas.\n\u2022 Advanced topics like iterators, generators, dynamic code execution, regular expressions in Python.\n\u2022 Knowledge of big data environments is desired, using Pydoop library.\n\u2022 Experience with PL SQL.\n\u2022 Knowledge of version and revision control practices and procedures.\n\nQualifications\n\nPython, JAVA, C++\n\nAdditional Information\n\nAll your information will be kept confidential according to EEO guidelines.",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1719776340,
+        "job_posted_at_datetime_utc": "2024-06-30T19:39:00.000Z",
+        "job_city": "New York",
+        "job_state": "NY",
+        "job_country": "US",
+        "job_latitude": 40.712776,
+        "job_longitude": -74.005974,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+new-york,usa&start=0&ibp=htl;jobs&htidocid=CsgKlMEAabChkLSgAAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+new-york,usa&htidocid=CsgKlMEAabChkLSgAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2024-07-30T00:00:00.000Z",
+        "job_offer_expiration_timestamp": 1722297600,
+        "job_required_experience": {
+            "no_experience_required": "false",
+            "required_experience_in_months": "96",
+            "experience_mentioned": "true",
+            "experience_preferred": "false"
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+            "postgraduate_degree": false,
+            "professional_certification": false,
+            "high_school": false,
+            "associates_degree": false,
+            "bachelors_degree": false,
+            "degree_mentioned": "false",
+            "degree_preferred": "false",
+            "professional_certification_mentioned": "false"
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+            "Qualifications": [
+                "8+ years of solid programming experience in C++, Java, or other OO language",
+                "3-4 years of experience in Python",
+                "Thorough understanding of Python basic concepts like Lists, Strings, Indexing, Slicing, Tuples and Dictionaries",
+                "Familiar with Python Object Oriented concepts like creating classes, constructors, overloading and modules",
+                "Familiar with NumPy and Pandas",
+                "Advanced topics like iterators, generators, dynamic code execution, regular expressions in Python",
+                "Experience with PL SQL",
+                "Knowledge of version and revision control practices and procedures",
+                "Python, JAVA, C++"
+            ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113200",
+        "job_onet_job_zone": "4",
+        "job_occupational_categories": [
+            "15-1132.00: Software Developers, Applications"
+        ],
+        "job_naics_code": null,
+        "job_naics_name": null
+    },
+    {
+        "job_id": "HopZVbZtENYPbCSwAAAAAA==",
+        "employer_name": "Compugra Systems",
+        "employer_logo": null,
+        "employer_website": "http://www.compugra.com",
+        "employer_company_type": null,
+        "employer_linkedin": null,
+        "job_publisher": "Dice",
+        "job_employment_type": "CONTRACTOR",
+        "job_title": "Python Developer",
+        "job_apply_link": "https://www.dice.com/job-detail/d6e76395-89bc-4c4b-89fa-586c1ee85860?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "job_apply_is_direct": true,
+        "job_apply_quality_score": 0.593,
+        "apply_options": [
+            {
+                "publisher": "Dice",
+                "apply_link": "https://www.dice.com/job-detail/d6e76395-89bc-4c4b-89fa-586c1ee85860?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": true
+            }
+        ],
+        "job_description": "Python Developer\n\nLocation: NYC\n\n1+year Contract\n\nExp: 12+ years\n\nFinancial Background is plus",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1720031370,
+        "job_posted_at_datetime_utc": "2024-07-03T18:29:30.000Z",
+        "job_city": "New York",
+        "job_state": "NY",
+        "job_country": "US",
+        "job_latitude": 40.712776,
+        "job_longitude": -74.005974,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+new-york,usa&start=0&ibp=htl;jobs&htidocid=HopZVbZtENYPbCSwAAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+new-york,usa&htidocid=HopZVbZtENYPbCSwAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2024-08-03T18:29:30.000Z",
+        "job_offer_expiration_timestamp": 1722709770,
+        "job_required_experience": {
+            "no_experience_required": "false",
+            "required_experience_in_months": null,
+            "experience_mentioned": "false",
+            "experience_preferred": "false"
+        },
+        "job_required_skills": [
+            "Python"
+        ],
+        "job_required_education": {
+            "postgraduate_degree": false,
+            "professional_certification": false,
+            "high_school": false,
+            "associates_degree": false,
+            "bachelors_degree": false,
+            "degree_mentioned": "false",
+            "degree_preferred": "false",
+            "professional_certification_mentioned": "false"
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+            "Qualifications": [
+                "Exp: 12+ years"
+            ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113200",
+        "job_onet_job_zone": "4",
+        "job_occupational_categories": null,
+        "job_naics_code": null,
+        "job_naics_name": null
+    },
+    {
+        "job_id": "jRI2mMEf6PpQH6mWAAAAAA==",
+        "employer_name": "ConsultAdd Inc.",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPd-hps7yHu6ZmQPwa8QzKacpqKLbzwCNNoBVY&s=0",
+        "employer_website": "http://consultadd.com",
+        "employer_company_type": null,
+        "employer_linkedin": "https://consultadd.com/",
+        "job_publisher": "OPTnation",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Entry Level Python Developer",
+        "job_apply_link": "https://www.optnation.com/entry-level-python-developer-job-in-new-york-ny-view-jobid-23798?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.6828,
+        "apply_options": [
+            {
+                "publisher": "OPTnation",
+                "apply_link": "https://www.optnation.com/entry-level-python-developer-job-in-new-york-ny-view-jobid-23798?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "BeBee",
+                "apply_link": "https://us.bebee.com/job/1c9cca795769c8583cfec075b09e4b3f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "Jobted",
+                "apply_link": "https://www.jobted.com/job/f00d146f9ee9e2e9bd83cb8ea90ac1f5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "Jobrapido.com",
+                "apply_link": "https://us.jobrapido.com/jobpreview/3296670650?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "Jobvertise",
+                "apply_link": "https://www.jobvertise.com/job?jobid=36754516&referer=jobrapido-cpc&utm_source=jobrapido-cpc&utm_campaign=jobrapido-cpc&utm_medium=organic&c=0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "WhatJobs United States | Jobs, Recruitment, News And Career Advice Hub",
+                "apply_link": "https://www.whatjobs.com/job/Python-developer/new-york-new-york-/1604859832?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            }
+        ],
+        "job_description": "Job Summary\n\nLooking for Jr. python developer or entry-level python developer or back end developer in our technical team to built software and to support client site developer or a front-end developer. You will be responsible for writing the code at the server-side and you will also responsible for managing the interchange of data between server and client. You will also respond to request from the front end therefor a basic understanding of front-end technologies is necessary. Your primary focus will be on the development of server-side logic.\n\nQualification\n\n\u00b7 Bachelor's/Master's degree in computer science or related field.\n\n\u00b7 Should have 0-3 years of working experience as well as a python developer.\n\nResponsibilities\n\n\u00b7 Create functions for data calculation (arithmetic functions with conditions).\n\n\u00b7 Engage and be actively involved in customer requirements.\n\n\u00b7 Perform assigned daily tasks and respond immediately to issues/problems.\n\n\u00b7 Involve in unit/integration testing frameworks and practices.\n\n\u00b7 Design Implement and Interacting with databases.\n\n\u00b7 Maintain and troubleshoot complex systems.\n\n\u00b7",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1677196800,
+        "job_posted_at_datetime_utc": "2023-02-24T00:00:00.000Z",
+        "job_city": "New York",
+        "job_state": "NY",
+        "job_country": "US",
+        "job_latitude": 40.712776,
+        "job_longitude": -74.005974,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+new-york,usa&start=0&ibp=htl;jobs&htidocid=jRI2mMEf6PpQH6mWAAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+new-york,usa&htidocid=jRI2mMEf6PpQH6mWAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": null,
+        "job_offer_expiration_timestamp": null,
+        "job_required_experience": {
+            "no_experience_required": "false",
+            "required_experience_in_months": null,
+            "experience_mentioned": "true",
+            "experience_preferred": "false"
+        },
+        "job_required_skills": [
+            "Python",
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "DevOps",
+            "Linux"
+        ],
+        "job_required_education": {
+            "postgraduate_degree": false,
+            "professional_certification": false,
+            "high_school": false,
+            "associates_degree": false,
+            "bachelors_degree": false,
+            "degree_mentioned": "true",
+            "degree_preferred": "true",
+            "professional_certification_mentioned": "false"
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": 40,
+        "job_max_salary": 45,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+            "Qualifications": [
+                "Bachelor's/Master's degree in computer science or related field",
+                "Should have 0-3 years of working experience as well as a python developer"
+            ],
+            "Responsibilities": [
+                "You will be responsible for writing the code at the server-side and you will also responsible for managing the interchange of data between server and client",
+                "Your primary focus will be on the development of server-side logic",
+                "Create functions for data calculation (arithmetic functions with conditions)",
+                "Engage and be actively involved in customer requirements",
+                "Perform assigned daily tasks and respond immediately to issues/problems",
+                "Involve in unit/integration testing frameworks and practices",
+                "Design Implement and Interacting with databases",
+                "Maintain and troubleshoot complex systems"
+            ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113200",
+        "job_onet_job_zone": "4",
+        "job_occupational_categories": null,
+        "job_naics_code": null,
+        "job_naics_name": null
+    },
+    {
+        "job_id": "lM64sqBk3ysmGl2IAAAAAA==",
+        "employer_name": "The Cypress Group",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR9TPF33AuFB20K94JFEUbixNgV1nwA0QhzKYW&s=0",
+        "employer_website": "http://www.cypressgroup.biz",
+        "employer_company_type": null,
+        "employer_linkedin": "https://www.linkedin.com/company/the-cypress-group",
+        "job_publisher": "CareerBuilder",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Back End Python Developer- Manhattan -$100K - $130K",
+        "job_apply_link": "https://www.careerbuilder.com/job/J3P6M965Y7Z0Y0LPHR1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.5346,
+        "apply_options": [
+            {
+                "publisher": "CareerBuilder",
+                "apply_link": "https://www.careerbuilder.com/job/J3P6M965Y7Z0Y0LPHR1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "Job Leap",
+                "apply_link": "https://www.jobleap.co.uk/job/d3453xvq/sr-front-end-angular-web-developer-manhattan-100k-130k?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "IT Tech Careers",
+                "apply_link": "https://ittechcareers.com/job/back-end-python-developer-manhattan-100k-130k/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "Dev Engineer Jobs",
+                "apply_link": "https://www.devengineerjobs.com/job/d3453xvq/new-york/sr-front-end-angular-web-developer-manhattan-100k-130k?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            }
+        ],
+        "job_description": "Back End Python Developer\u2013 Manhattan \u2013$100K \u2013 $130K\n\nJob Type permanent Location New York Tri-State Area $100,000 - $130,000 Description Back End Python Developer\u2013 Manhattan \u2013$100K \u2013 $130K My client is a digital agency currently working in the financial sector. The ideal candidate will have 4+ years of experience working with Python and Backend. Having worked with Django, Flash or PHP is a huge plus! This role can be the next step in your career. You will be reporting directly to the CTO and have the opportunity to build out your own team in the future. Interviews are already underway! If you are interested please submit your resume to [Email available when viewing the job]\n\nASAP!\n\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1719964800,
+        "job_posted_at_datetime_utc": "2024-07-03T00:00:00.000Z",
+        "job_city": "New York",
+        "job_state": "NY",
+        "job_country": "US",
+        "job_latitude": 40.712776,
+        "job_longitude": -74.005974,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+new-york,usa&start=0&ibp=htl;jobs&htidocid=lM64sqBk3ysmGl2IAAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+new-york,usa&htidocid=lM64sqBk3ysmGl2IAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2024-08-02T00:00:00.000Z",
+        "job_offer_expiration_timestamp": 1722556800,
+        "job_required_experience": {
+            "no_experience_required": "false",
+            "required_experience_in_months": "48",
+            "experience_mentioned": "true",
+            "experience_preferred": "true"
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+            "postgraduate_degree": false,
+            "professional_certification": false,
+            "high_school": false,
+            "associates_degree": false,
+            "bachelors_degree": false,
+            "degree_mentioned": "false",
+            "degree_preferred": "false",
+            "professional_certification_mentioned": "false"
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+            "Qualifications": [
+                "The ideal candidate will have 4+ years of experience working with Python and Backend",
+                "Having worked with Django, Flash or PHP is a huge plus!"
+            ],
+            "Benefits": [
+                "Job Type permanent Location New York Tri-State Area $100,000 - $130,000 Description Back End Python Developer\u2013 Manhattan \u2013$100K \u2013 $130K My client is a digital agency currently working in the financial sector"
+            ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113200",
+        "job_onet_job_zone": "4",
+        "job_occupational_categories": null,
+        "job_naics_code": null,
+        "job_naics_name": null
+    },
+    {
+        "job_id": "24o-Yq1s6Tfi-VRAAAAAAA==",
+        "employer_name": "Compugra Systems",
+        "employer_logo": null,
+        "employer_website": "http://www.compugra.com",
+        "employer_company_type": null,
+        "employer_linkedin": null,
+        "job_publisher": "Salary.com",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Python developer",
+        "job_apply_link": "https://www.salary.com/job/compugra-systems/python-developer/j202407030941047204227?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.5258,
+        "apply_options": [
+            {
+                "publisher": "Salary.com",
+                "apply_link": "https://www.salary.com/job/compugra-systems/python-developer/j202407030941047204227?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "Python Job",
+                "apply_link": "https://pythonjob.xyz/job/2ilKBItLqF6PNqdYTjhi3RwSKed?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            }
+        ],
+        "job_description": "Job Details\n\nPython Developer\n\nLocation : NYC\n\nLocal to NY NJ only\n\n1 Year\n\nneed resumes more than 12 years\n\nEmployers have access to artificial intelligence language tools (\u201cAI\u201d) that help generate and enhance job descriptions and AI may have been used to create this description. The position description has been reviewed for accuracy and Dice believes it to correctly reflect the job opportunity.\n\u2022 Dice Id: 10110007\n\u2022 Position Id: 8337440\n\u2022",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1720051200,
+        "job_posted_at_datetime_utc": "2024-07-04T00:00:00.000Z",
+        "job_city": "New York",
+        "job_state": "NY",
+        "job_country": "US",
+        "job_latitude": 40.712776,
+        "job_longitude": -74.005974,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+new-york,usa&start=0&ibp=htl;jobs&htidocid=24o-Yq1s6Tfi-VRAAAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+new-york,usa&htidocid=24o-Yq1s6Tfi-VRAAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2024-09-03T00:00:00.000Z",
+        "job_offer_expiration_timestamp": 1725321600,
+        "job_required_experience": {
+            "no_experience_required": "false",
+            "required_experience_in_months": null,
+            "experience_mentioned": "false",
+            "experience_preferred": "false"
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+            "postgraduate_degree": false,
+            "professional_certification": false,
+            "high_school": false,
+            "associates_degree": false,
+            "bachelors_degree": false,
+            "degree_mentioned": "false",
+            "degree_preferred": "false",
+            "professional_certification_mentioned": "false"
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+            "Qualifications": [
+                "need resumes more than 12 years"
+            ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113200",
+        "job_onet_job_zone": "4",
+        "job_occupational_categories": null,
+        "job_naics_code": null,
+        "job_naics_name": null
+    },
+    {
+        "job_id": "mATSICkmO0jdMkkMAAAAAA==",
+        "employer_name": "iappsdata",
+        "employer_logo": null,
+        "employer_website": "https://iappsdata.com",
+        "employer_company_type": null,
+        "employer_linkedin": null,
+        "job_publisher": "Indeed",
+        "job_employment_type": "CONTRACTOR",
+        "job_title": "Senior Python Developer",
+        "job_apply_link": "https://www.indeed.com/viewjob?jk=14300f4e4db6fa32&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.6264,
+        "apply_options": [
+            {
+                "publisher": "Indeed",
+                "apply_link": "https://www.indeed.com/viewjob?jk=14300f4e4db6fa32&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "Salary.com",
+                "apply_link": "https://www.salary.com/job/vkore-solutions-llc/senior-python-developer/j202406130409543204254?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "Glassdoor",
+                "apply_link": "https://www.glassdoor.com/job-listing/senior-python-developer-iappsdata-JV_IC1132348_KO0,23_KE24,33.htm?jl=1009350446633&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": true
+            },
+            {
+                "publisher": "SimplyHired",
+                "apply_link": "https://www.simplyhired.com/job/VKASY62AziKuhDd8ZDRml6vyY6aXmuAlO0zcVAdCdbAuebuUH9ey4Q?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            }
+        ],
+        "job_description": "Responsibilities:\n\u2022 Hands-on & In-depth knowledge of Python application programming concepts, Django, Flask\n\u2022 Experience in Python, Django REST framework (or any other for building Web APIs)\n\u2022 Create services as part of back-end: message intake and processing pipelines (message flow), REST APIs for front-end, data manipulation (JSON,XML, flat), external services calling.\n\u2022 Including Pandas, Pytest, Exception handling, Multithread concepts / Asyncio, gRPC (python microservices concepts)\n\u2022 Participate in architectural, design and product discussions.\n\u2022 Experience in Agile/Scrum based project execution.\n\u2022 Client is technology agnostic, and they will be tested mainly on their thinking approach, Analytical and problem-solving abilities\n\u2022 Good SQL knowledge, PostGres & Snowflake\n\u2022 Good understanding of AWS concepts\n\u2022 Experience in CI/CD DevOps methodology\n\u2022 Should have handled complex projects and should be hands-on.\n\nGood to Have:\n\u2022 Knowledge on Cloud App services, Load Balancer, Application Gateway\n\u2022 Hand on with Cloud services \u2013 preferably Azure\n\u2022 Experience in NoSQL Database and in-memory Database\n\u2022 Experience in Unit testing frameworks\n\u2022 Strong Knowledge on CI/CD using Jenkins/Bamboo\n\u2022 Working Knowledge on Dockers/Kubernetes\n\nJob Type: Contract\n\nPay: $50.00 - $55.00 per hour\n\nExpected hours: 40 per week\n\nCompensation package:\n\u2022 Hourly pay\n\u2022 Weekly pay\n\nExperience level:\n\u2022 10 years\n\u2022 11+ years\n\nSchedule:\n\u2022 Day shift\n\nExperience:\n\u2022 Python: 5 years (Preferred)\n\u2022 Django REST framework: 5 years (Preferred)\n\nAbility to Commute:\n\u2022 New York, NY 10001 (Preferred)\n\nAbility to Relocate:\n\u2022 New York, NY 10001: Relocate before starting work (Preferred)\n\nWork Location: In person",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1720035458,
+        "job_posted_at_datetime_utc": "2024-07-03T19:37:38.000Z",
+        "job_city": "New York",
+        "job_state": "NY",
+        "job_country": "US",
+        "job_latitude": 40.712776,
+        "job_longitude": -74.005974,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+new-york,usa&start=0&ibp=htl;jobs&htidocid=mATSICkmO0jdMkkMAAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+new-york,usa&htidocid=mATSICkmO0jdMkkMAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2024-10-31T23:30:53.000Z",
+        "job_offer_expiration_timestamp": 1730417453,
+        "job_required_experience": {
+            "no_experience_required": "false",
+            "required_experience_in_months": null,
+            "experience_mentioned": "true",
+            "experience_preferred": "false"
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+            "postgraduate_degree": false,
+            "professional_certification": false,
+            "high_school": false,
+            "associates_degree": false,
+            "bachelors_degree": false,
+            "degree_mentioned": "false",
+            "degree_preferred": "false",
+            "professional_certification_mentioned": "false"
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": 50,
+        "job_max_salary": 55,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+            "Qualifications": [
+                "Should have handled complex projects and should be hands-on",
+                "Knowledge on Cloud App services, Load Balancer, Application Gateway",
+                "Hand on with Cloud services \u2013 preferably Azure",
+                "Experience in NoSQL Database and in-memory Database",
+                "Experience in Unit testing frameworks",
+                "Strong Knowledge on CI/CD using Jenkins/Bamboo",
+                "Working Knowledge on Dockers/Kubernetes",
+                "10 years",
+                "11+ years"
+            ],
+            "Responsibilities": [
+                "Hands-on & In-depth knowledge of Python application programming concepts, Django, Flask",
+                "Experience in Python, Django REST framework (or any other for building Web APIs)",
+                "Create services as part of back-end: message intake and processing pipelines (message flow), REST APIs for front-end, data manipulation (JSON,XML, flat), external services calling",
+                "Including Pandas, Pytest, Exception handling, Multithread concepts / Asyncio, gRPC (python microservices concepts)",
+                "Participate in architectural, design and product discussions",
+                "Experience in Agile/Scrum based project execution",
+                "Good understanding of AWS concepts"
+            ],
+            "Benefits": [
+                "Pay: $50.00 - $55.00 per hour",
+                "Expected hours: 40 per week",
+                "Compensation package:",
+                "Weekly pay"
+            ]
+        },
+        "job_job_title": "Senior",
+        "job_posting_language": "en",
+        "job_onet_soc": "15113200",
+        "job_onet_job_zone": "4",
+        "job_occupational_categories": null,
+        "job_naics_code": null,
+        "job_naics_name": null
+    },
+    {
+        "job_id": "OwHWZq9fXsdZpAcXAAAAAA==",
+        "employer_name": "Sulekha.com Client",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8DIwou8cnqKJs5lb3ts7SRufkeoAqSxcqeda6&s=0",
+        "employer_website": "http://www.sulekha.com/chennai",
+        "employer_company_type": null,
+        "employer_linkedin": "https://www.facebook.com/Sulekhadotcom/",
+        "job_publisher": "Sulekha Jobs",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Hiring For Jr Python Developer Jobs in New York, NY at Top Level Consultancy",
+        "job_apply_link": "https://localjobs.sulekha.com/0-to-1-years-experience-hiring-for-jr-python-developer-job-from-top-level-consultancy_new-york-ny_1841462?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.5684,
+        "apply_options": [
+            {
+                "publisher": "Sulekha Jobs",
+                "apply_link": "https://localjobs.sulekha.com/0-to-1-years-experience-hiring-for-jr-python-developer-job-from-top-level-consultancy_new-york-ny_1841462?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            }
+        ],
+        "job_description": "Hi\nShort Description:\n\nExpertise in Python and associated frameworks such as Django and Flask. Comprehensive knowledge of Python's multi-process architecture and threading restrictions. Knowledge of server-side templating languages such as Jinja 2 and Mako. Understanding of integration of many data sources into a single system. Ability to work collaboratively on projects as well as independently when necessary. Quick learner with the capacity to modify approaches dependent on the situation. Awareness of how to test Python programs successfully. Excellent communication and teamwork abilities. Knowledge of front-end technology (like JavaScript and HTML5) Excellent problem-solving abilities Bachelor of Science in Computer Science, Engineering, or a related discipline. Understanding front-end technologies such as JavaScript, HTML5, and CSS3 is required.\nIF YOU ARE INTERESTED, CAN YOU TEXT ME AT 7 0 2 7 8 1 8 3 4 3\n, qualification:High School, skillsIT Software,Python,",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1719964800,
+        "job_posted_at_datetime_utc": "2024-07-03T00:00:00.000Z",
+        "job_city": "New York",
+        "job_state": "NY",
+        "job_country": "US",
+        "job_latitude": 40.712776,
+        "job_longitude": -74.005974,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+new-york,usa&start=0&ibp=htl;jobs&htidocid=OwHWZq9fXsdZpAcXAAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+new-york,usa&htidocid=OwHWZq9fXsdZpAcXAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2024-10-11T00:00:00.000Z",
+        "job_offer_expiration_timestamp": 1728604800,
+        "job_required_experience": {
+            "no_experience_required": "false",
+            "required_experience_in_months": null,
+            "experience_mentioned": "false",
+            "experience_preferred": "false"
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+            "postgraduate_degree": false,
+            "professional_certification": false,
+            "high_school": false,
+            "associates_degree": false,
+            "bachelors_degree": false,
+            "degree_mentioned": "true",
+            "degree_preferred": "false",
+            "professional_certification_mentioned": "false"
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+            "Qualifications": [
+                "Expertise in Python and associated frameworks such as Django and Flask",
+                "Comprehensive knowledge of Python's multi-process architecture and threading restrictions",
+                "Knowledge of server-side templating languages such as Jinja 2 and Mako",
+                "Understanding of integration of many data sources into a single system",
+                "Ability to work collaboratively on projects as well as independently when necessary",
+                "Quick learner with the capacity to modify approaches dependent on the situation",
+                "Awareness of how to test Python programs successfully",
+                "Excellent communication and teamwork abilities",
+                "Knowledge of front-end technology (like JavaScript and HTML5) Excellent problem-solving abilities Bachelor of Science in Computer Science, Engineering, or a related discipline",
+                "Understanding front-end technologies such as JavaScript, HTML5, and CSS3 is required"
+            ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113200",
+        "job_onet_job_zone": "4",
+        "job_occupational_categories": null,
+        "job_naics_code": "54161",
+        "job_naics_name": "Management Consulting Services"
+    },
+    {
+        "job_id": "hLot8XBS3fxeDPrCAAAAAA==",
+        "employer_name": "Oscar Associates",
+        "employer_logo": null,
+        "employer_website": "http://www.oscarbenefits.com",
+        "employer_company_type": null,
+        "employer_linkedin": null,
+        "job_publisher": "Snagajob",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Python Full Stack Developer",
+        "job_apply_link": "https://www.snagajob.com/jobs/971085933?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.5532,
+        "apply_options": [
+            {
+                "publisher": "Snagajob",
+                "apply_link": "https://www.snagajob.com/jobs/971085933?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "Jooble",
+                "apply_link": "https://jooble.org/jdp/7341511397359643327?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "SimplyHired",
+                "apply_link": "https://www.simplyhired.com/job/Wps4BF19vWhhBbQv3jL76FzjIF-GWbgJlREg_c0Qb7wa6RxNATGEfA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "Star Job Search",
+                "apply_link": "https://starjobsearch.co.uk/jobs/python-full-stack-developer-new-york/1368250256-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "Jobs",
+                "apply_link": "https://jobs.forces.net/jobs/python-full-stack-developer-new-york/1368250256-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "Sercanto",
+                "apply_link": "https://us.sercanto.com/detail/a/python-full-stack-developer_new-york_2777496753?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "My Valley Jobs Today",
+                "apply_link": "https://myvalleyjobstoday.com/jobs/python-full-stack-developer-new-york/1368250256-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "SaluteMyJob",
+                "apply_link": "https://salutemyjob.com/jobs/python-full-stack-developer-new-york/1368250256-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            }
+        ],
+        "job_description": "Exciting Opportunity for Senior/Principal Full Stack Python Developers! Join Oscar Technology in partnering with cutting-edge clients in the Healthtech sector! We're looking for talented Python Developers with 5 years of experience to join remote teams and drive innovation.Job Title:Full Stack Python Developer - 5 years of experienceSalary: $150,000 - $200,000 (Can go higher for exceptional candidates) Equity/Stock optionsLocation: Remote\u200d Client: Our client is an innovative tech-for-good company in Healthtech, well-funded with over 80 million in funding and nearly 3 years of runway. They're scaling rapidly with a team of 500 and offer a collaborative environment with significant autonomy.Tech Stack: Python, AWS, Rego/FlaskThis is your chance to work with a dynamic team of 50 tech enthusiasts, including 15 Python developers, in an environment where you can make a real impact on Greenfield projects. Flexibility in tech stack and autonomy in project ownership await you!Are you ready to take your Python expertise to the next level? Apply now or share with someone who might be a perfect fit! Let's innovate together in the world of Healthtech. #PythonDeveloper #Healthtech #RemoteWork #TechJobs #FullStackDeveloperact, FastAPI/DjanOscar Associates Limited (US) is acting as an Employment Agency in relation to this vacancy.",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1720093354,
+        "job_posted_at_datetime_utc": "2024-07-04T11:42:34.000Z",
+        "job_city": "New York",
+        "job_state": "NY",
+        "job_country": "US",
+        "job_latitude": 40.712776,
+        "job_longitude": -74.005974,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+new-york,usa&start=0&ibp=htl;jobs&htidocid=hLot8XBS3fxeDPrCAAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+new-york,usa&htidocid=hLot8XBS3fxeDPrCAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2024-09-02T11:42:00.000Z",
+        "job_offer_expiration_timestamp": 1725277320,
+        "job_required_experience": {
+            "no_experience_required": "false",
+            "required_experience_in_months": "60",
+            "experience_mentioned": "true",
+            "experience_preferred": "false"
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+            "postgraduate_degree": false,
+            "professional_certification": false,
+            "high_school": false,
+            "associates_degree": false,
+            "bachelors_degree": false,
+            "degree_mentioned": "false",
+            "degree_preferred": "false",
+            "professional_certification_mentioned": "false"
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+            "Qualifications": [
+                "Flexibility in tech stack and autonomy in project ownership await you!"
+            ],
+            "Benefits": [
+                "Salary: $150,000 - $200,000 (Can go higher for exceptional candidates) Equity/Stock options"
+            ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113300",
+        "job_onet_job_zone": "4",
+        "job_occupational_categories": null,
+        "job_naics_code": null,
+        "job_naics_name": null
+    },
+    {
+        "job_id": "IJlqHJXnDp4R_ZEiAAAAAA==",
+        "employer_name": "Oliver Bernard",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPKXOjW-2PNspxLNoLjgrbMJuqGG-O_YpXDfpH&s=0",
+        "employer_website": null,
+        "employer_company_type": null,
+        "employer_linkedin": null,
+        "job_publisher": "LinkedIn",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Senior Python Developer - $150k-$180k",
+        "job_apply_link": "https://www.linkedin.com/jobs/view/senior-python-developer-%24150k-%24180k-at-oliver-bernard-3962769950?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.6297,
+        "apply_options": [
+            {
+                "publisher": "LinkedIn",
+                "apply_link": "https://www.linkedin.com/jobs/view/senior-python-developer-%24150k-%24180k-at-oliver-bernard-3962769950?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "BeBee",
+                "apply_link": "https://us.bebee.com/job/a35741facacb730dbd55f6358fc8a50b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "CareerAddict Jobs",
+                "apply_link": "https://jobs.careeraddict.com/post/92539593?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "Carieranoua",
+                "apply_link": "https://carieranoua.ro/job/3317870/senior-python-developer-150k-180k/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "Talent.com",
+                "apply_link": "https://www.talent.com/view?id=505e09f07013&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "CareerBuilder",
+                "apply_link": "https://www.careerbuilder.com/job/J3N6QK78QFSYSFKV92Y?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "Ladders",
+                "apply_link": "https://www.theladders.com/job-listing/senior-python-developer-oliver-bernard-_v2_-7-3801987344.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "Dive Into Python",
+                "apply_link": "https://diveintopython.org/jobs/senior-python-engineer-7570?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            }
+        ],
+        "job_description": "Senior Python Engineer \u2013 New York - $150k-$180k\n\nLocation: Manhattan, New York\n\nSalary: $150,000 - $180,000\n\nIndustry: Travel\n\nTech Stack: Python, Django, Flask, Kubernetes, CI/CD, AWS \ud83d\udc69\ud83c\udffb\ud83d\udcbb\n\nGreat opportunity for a talented Senior Backend Engineer (Python, Django, Flask, AWS) to join a scaling travel business allowing individual travel agents to connect people with their dream holidays.\n\nThe Company \ud83d\ude80\n\nGrowing travel business that provide an entire back office system for travel agents. Their 3-strong founding team are on a mission to build a next generation travel platform to give the world access to their dream destinations.\n\nThe Role \u2728\n\nThey are seeking a skilled Engineer (Python, Django, Flask, AWS) to be responsible for the integration and scaling up of their data platforms.\n\nThe successful Engineer\u2019s (Python, Django, Flask, AWS) primary responsibilities will include architecting, building and developing their systems.\n\nThis is a great opportunity to work directly their core platform (Python, Django, Flask, AWS) and build out greenfield products used by hundreds of thousands of customers daily.\n\nDesired Skills \u2699\ufe0f\n\u2022 Python\n\u2022 Django, Flask\n\u2022 Docker, Kubernetes\n\u2022 REST\n\u2022 AWS\n\u2022 Distributed Systems\n\u2022 Systems Design\n\nBenefits \ud83c\udfd6\n\u2022 Full medical insurance\n\u2022 401(k)\n\u2022 Ability to book travel for friends and family and earn commission\n\u2022 Two full remote working weeks encouraged\n\nIf you are a skilled Engineer (Python, Django, Flask, AWS) who is interested in this role then please apply below and I will be in touch with more details.",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1719824252,
+        "job_posted_at_datetime_utc": "2024-07-01T08:57:32.000Z",
+        "job_city": "New York",
+        "job_state": "NY",
+        "job_country": "US",
+        "job_latitude": 40.712776,
+        "job_longitude": -74.005974,
+        "job_benefits": [
+            "retirement_savings",
+            "health_insurance"
+        ],
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+new-york,usa&start=0&ibp=htl;jobs&htidocid=IJlqHJXnDp4R_ZEiAAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+new-york,usa&htidocid=IJlqHJXnDp4R_ZEiAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2024-07-31T08:57:31.000Z",
+        "job_offer_expiration_timestamp": 1722416251,
+        "job_required_experience": {
+            "no_experience_required": "false",
+            "required_experience_in_months": null,
+            "experience_mentioned": "false",
+            "experience_preferred": "false"
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+            "postgraduate_degree": "false",
+            "professional_certification": "false",
+            "high_school": "false",
+            "associates_degree": "false",
+            "bachelors_degree": "true",
+            "degree_mentioned": "false",
+            "degree_preferred": "false",
+            "professional_certification_mentioned": "false"
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": 150000,
+        "job_max_salary": 180000,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+            "Responsibilities": [
+                "They are seeking a skilled Engineer (Python, Django, Flask, AWS) to be responsible for the integration and scaling up of their data platforms",
+                "The successful Engineer\u2019s (Python, Django, Flask, AWS) primary responsibilities will include architecting, building and developing their systems",
+                "This is a great opportunity to work directly their core platform (Python, Django, Flask, AWS) and build out greenfield products used by hundreds of thousands of customers daily"
+            ],
+            "Benefits": [
+                "Salary: $150,000 - $180,000",
+                "Benefits \ud83c\udfd6",
+                "Full medical insurance",
+                "401(k)",
+                "Ability to book travel for friends and family and earn commission",
+                "Two full remote working weeks encouraged"
+            ]
+        },
+        "job_job_title": "Senior",
+        "job_posting_language": "en",
+        "job_onet_soc": "15113200",
+        "job_onet_job_zone": "4",
+        "job_occupational_categories": null,
+        "job_naics_code": null,
+        "job_naics_name": null
+    },
+    {
+        "job_id": "FcdWAGgbuby8hLLiAAAAAA==",
+        "employer_name": "Walsh Employment",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGv6Fap993KJWgeqxZbznxABX_yCVCetBmpkkB&s=0",
+        "employer_website": "http://walshemployment.co.uk",
+        "employer_company_type": null,
+        "employer_linkedin": "https://uk.linkedin.com/company/walsh-employment-limited",
+        "job_publisher": "LinkedIn",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Python Developer",
+        "job_apply_link": "https://www.linkedin.com/jobs/view/python-developer-at-walsh-employment-3964642876?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.6281,
+        "apply_options": [
+            {
+                "publisher": "LinkedIn",
+                "apply_link": "https://www.linkedin.com/jobs/view/python-developer-at-walsh-employment-3964642876?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            },
+            {
+                "publisher": "Ladders",
+                "apply_link": "https://www.theladders.com/job-listing/python-developer-walsh-employment-new-york-ny-_v2_-7-3836350316.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                "is_direct": false
+            }
+        ],
+        "job_description": "Our client is a leading quantitative investment company with a focus on computer-driven trading for global financial markets utilizing the firm\u2019s proprietary, state-of-the-art technology & data platform. They company harnesses the power of data and advanced technologies to drive innovative strategies and superior investment returns. We are now seeking an exceptional Software Engineer to join their busy, growing, and successful team.\n\nSoftware Engineer\n\nManhattan, NY\n\n4 days on site, 1 remote\n\n$110-175K plus excellent benefits package.\n\nYou must be a US citizenship, Green Card holder or transfer of a current H-1B Visa is also available if required.\n\nTo be successful in this role:\n\u2022 You will be a confident Software Engineer with 2-4 years experience and the following required skills, qualifications and experience:\n\u2022 Undergraduate degree in CS, EE, or a related field\n\u2022 Two years professional experience in software engineering\n\u2022 Programming experience in Python (relational databases and SQL a plus)\n\u2022 While a background in finance is beneficial, it is not mandatory\n\nPosition summary:\n\nThis role offers a unique opportunity to work at the forefront of systematic trading, where innovation and quantitative analysis intersect. The company is passionate about implementing scientific and mathematical methods to explore and solve problems in the global financial markets. If you thrive in a fast-paced, data-driven environment, we encourage you to apply.\n\nJob role and responsibilities:\n\nAs a Software Engineer, you will join the Core Technology team as a key player in building and scaling the company\u2019s central infrastructure, participating in greenfield projects as well as enhancing existing systems. As part of a small, focused team, you will report directly to the Co-CTOs and will collaborate closely with team members and end users, having immediate firmwide impact and gaining exposure to all areas of the firm such as data, research, operations, and risk.\n\nKey responsibilities for this role include:\n\u2022 Develop efficient, scalable data and research infrastructure\n\u2022 Implement robust workflows for processing structured and unstructured financial datasets\n\u2022 Contribute to internal microservice-based infrastructure platform\n\u2022 Develop web-based tools for internal teams and users",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1719948152,
+        "job_posted_at_datetime_utc": "2024-07-02T19:22:32.000Z",
+        "job_city": "New York",
+        "job_state": "NY",
+        "job_country": "US",
+        "job_latitude": 40.712776,
+        "job_longitude": -74.005974,
+        "job_benefits": [
+            "health_insurance"
+        ],
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=python+developer+in+new-york,usa&start=0&ibp=htl;jobs&htidocid=FcdWAGgbuby8hLLiAAAAAA%3D%3D#fpstate=tldetail&htivrt=jobs&htiq=python+developer+in+new-york,usa&htidocid=FcdWAGgbuby8hLLiAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2024-08-01T19:22:32.000Z",
+        "job_offer_expiration_timestamp": 1722540152,
+        "job_required_experience": {
+            "no_experience_required": "false",
+            "required_experience_in_months": "24",
+            "experience_mentioned": "true",
+            "experience_preferred": "true"
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+            "postgraduate_degree": "false",
+            "professional_certification": "false",
+            "high_school": "false",
+            "associates_degree": "false",
+            "bachelors_degree": "true",
+            "degree_mentioned": "true",
+            "degree_preferred": "true",
+            "professional_certification_mentioned": "false"
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": 110000,
+        "job_max_salary": 175000,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {
+            "Qualifications": [
+                "You must be a US citizenship, Green Card holder or transfer of a current H-1B Visa is also available if required",
+                "You will be a confident Software Engineer with 2-4 years experience and the following required skills, qualifications and experience:",
+                "Undergraduate degree in CS, EE, or a related field",
+                "Two years professional experience in software engineering",
+                "While a background in finance is beneficial, it is not mandatory"
+            ],
+            "Responsibilities": [
+                "As a Software Engineer, you will join the Core Technology team as a key player in building and scaling the company\u2019s central infrastructure, participating in greenfield projects as well as enhancing existing systems",
+                "As part of a small, focused team, you will report directly to the Co-CTOs and will collaborate closely with team members and end users, having immediate firmwide impact and gaining exposure to all areas of the firm such as data, research, operations, and risk",
+                "Develop efficient, scalable data and research infrastructure",
+                "Implement robust workflows for processing structured and unstructured financial datasets",
+                "Contribute to internal microservice-based infrastructure platform",
+                "Develop web-based tools for internal teams and users"
+            ],
+            "Benefits": [
+                "$110-175K plus excellent benefits package"
+            ]
+        },
+        "job_job_title": null,
+        "job_posting_language": "en",
+        "job_onet_soc": "15113200",
+        "job_onet_job_zone": "4",
+        "job_occupational_categories": null,
+        "job_naics_code": null,
+        "job_naics_name": null
+    }
+]

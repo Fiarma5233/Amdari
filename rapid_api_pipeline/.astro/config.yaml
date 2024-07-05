@@ -1,0 +1,5 @@
+project:
+    name: rapid-api-pipeline
+    #root: /home/fiarma-landry-some/Documents/Amdari/rapid_api_pipeline # ajouter
+postgres:
+    port:5445
